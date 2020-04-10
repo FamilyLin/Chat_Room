@@ -1,0 +1,2 @@
+java ChatRoomClientAppMain "127.0.0.1"
+java ChatRoomServerAppMain
